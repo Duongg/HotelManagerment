@@ -1,0 +1,83 @@
+D:\Documents\C#\HotelManagerment\HotelManagerment\bin\Debug\HotelManagerment.exe.config
+D:\Documents\C#\HotelManagerment\HotelManagerment\bin\Debug\HotelManagerment.exe
+D:\Documents\C#\HotelManagerment\HotelManagerment\bin\Debug\HotelManagerment.pdb
+D:\Documents\C#\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.csprojAssemblyReference.cache
+D:\Documents\C#\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.DoiPhong.resources
+D:\Documents\C#\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.Login.resources
+D:\Documents\C#\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.Server.resources
+D:\Documents\C#\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.ThuePhong.resources
+D:\Documents\C#\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.Properties.Resources.resources
+D:\Documents\C#\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.TraPhong.resources
+D:\Documents\C#\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.csproj.GenerateResource.cache
+D:\Documents\C#\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.csproj.CoreCompileInputs.cache
+D:\Documents\C#\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.exe
+D:\Documents\C#\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.pdb
+D:\Documents\C#\HotelManagerment\HotelManagerment\bin\Debug\HotelLibrary.dll
+D:\Documents\C#\HotelManagerment\HotelManagerment\bin\Debug\HotelLibrary.pdb
+D:\Documents\C#\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.csproj.CopyComplete
+D:\Documents\C#\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.frmEmptyRoom.resources
+D:\Documents\C#\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.frmBookingRoom.resources
+D:\Documents\C#\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.frmThemPhong.resources
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\bin\Debug\HotelManagerment.exe.config
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\bin\Debug\HotelManagerment.exe
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\bin\Debug\HotelManagerment.pdb
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\bin\Debug\HotelLibrary.dll
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\bin\Debug\HotelLibrary.pdb
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.csprojAssemblyReference.cache
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.DoiPhong.resources
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.frmEmptyRoom.resources
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.frmBookingRoom.resources
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.frmThemPhong.resources
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.Login.resources
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.Server.resources
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.ThuePhong.resources
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.Properties.Resources.resources
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.TraPhong.resources
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.csproj.GenerateResource.cache
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.csproj.CoreCompileInputs.cache
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.csproj.CopyComplete
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.exe
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.pdb
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.Payment.resources
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\bin\Debug\HotelManagerment.exe.config
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\bin\Debug\HotelManagerment.exe
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\bin\Debug\HotelManagerment.pdb
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\bin\Debug\HotelLibrary.dll
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\bin\Debug\HotelLibrary.pdb
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.csprojAssemblyReference.cache
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.DoiPhong.resources
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.frmEmptyRoom.resources
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.frmBookingRoom.resources
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.frmThemPhong.resources
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.Login.resources
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.Payment.resources
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.Server.resources
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.ThuePhong.resources
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.Properties.Resources.resources
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.TraPhong.resources
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.csproj.GenerateResource.cache
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.csproj.CoreCompileInputs.cache
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.csproj.CopyComplete
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.exe
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.pdb
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\bin\Debug\HotelLibrary.dll
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\bin\Debug\HotelLibrary.pdb
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.DoiPhong.resources
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.frmEmptyRoom.resources
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.frmBookingRoom.resources
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.frmThemPhong.resources
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.Login.resources
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.Payment.resources
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.Server.resources
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.ThuePhong.resources
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.Properties.Resources.resources
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.TraPhong.resources
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.exe
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.pdb
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\bin\Debug\HotelManagerment.exe.config
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\bin\Debug\HotelManagerment.exe
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\bin\Debug\HotelManagerment.pdb
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelManagerment\obj\Debug\HotelManagerment.csproj.CopyComplete
