@@ -1,0 +1,24 @@
+D:\Documents\C#\HotelManagerment\HotelLibrary\bin\Debug\HotelLibrary.dll
+D:\Documents\C#\HotelManagerment\HotelLibrary\bin\Debug\HotelLibrary.pdb
+D:\Documents\C#\HotelManagerment\HotelLibrary\obj\Debug\HotelLibrary.csprojAssemblyReference.cache
+D:\Documents\C#\HotelManagerment\HotelLibrary\obj\Debug\HotelLibrary.csproj.CoreCompileInputs.cache
+D:\Documents\C#\HotelManagerment\HotelLibrary\obj\Debug\HotelLibrary.dll
+D:\Documents\C#\HotelManagerment\HotelLibrary\obj\Debug\HotelLibrary.pdb
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelLibrary\bin\Debug\HotelLibrary.dll
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelLibrary\bin\Debug\HotelLibrary.pdb
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelLibrary\obj\Debug\HotelLibrary.csprojAssemblyReference.cache
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelLibrary\obj\Debug\HotelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelLibrary\obj\Debug\HotelLibrary.dll
+C:\Users\NghiaNC\Downloads\HotelManagermentduong\HotelManagerment\HotelLibrary\obj\Debug\HotelLibrary.pdb
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelLibrary\bin\Debug\HotelLibrary.dll
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelLibrary\bin\Debug\HotelLibrary.pdb
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelLibrary\obj\Debug\HotelLibrary.csprojAssemblyReference.cache
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelLibrary\obj\Debug\HotelLibrary.csproj.CoreCompileInputs.cache
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelLibrary\obj\Debug\HotelLibrary.dll
+D:\Downloads\Download Data\HotelManagermentduong\HotelManagerment\HotelLibrary\obj\Debug\HotelLibrary.pdb
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelLibrary\bin\Debug\HotelLibrary.dll
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelLibrary\bin\Debug\HotelLibrary.pdb
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelLibrary\obj\Debug\HotelLibrary.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelLibrary\obj\Debug\HotelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelLibrary\obj\Debug\HotelLibrary.dll
+C:\Users\DELL\Desktop\SE1275_HotelManagerment\HotelManagerment\HotelLibrary\obj\Debug\HotelLibrary.pdb
